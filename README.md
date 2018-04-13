@@ -6,5 +6,8 @@ This repository contains all the material needed for the Transient Astrophysics 
 
 # Aladin and TOPCAT 
 It is important to have installed beforehand in your laptops the VO-tools to be used in the School, namely:
-[ALADIN](http://aladin.u-strasbg.fr/) (Download the Aladin.jar file and execute it from a terminal using “java -Xmx2048m -jar Aladin.jar”). 
-[TOPCAT](http://www.star.bris.ac.uk/~mbt/topcat/) (Download the topcat-full.jar file and execute it from a terminal using “java -jar topcat-full.jar”). 
+[ALADIN](http://aladin.u-strasbg.fr/). Download the Aladin.jar file and execute it from a terminal using 
+                                $ java -Xmx2048m -jar Aladin.jar
+          
+[TOPCAT](http://www.star.bris.ac.uk/~mbt/topcat/). Download the topcat-full.jar file and execute it from a terminal using 
+                                $ java -jar topcat-full.jar
